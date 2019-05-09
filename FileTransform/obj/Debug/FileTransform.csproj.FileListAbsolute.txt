@@ -1,0 +1,6 @@
+C:\UnzipCode\FileTransform\FileTransform\bin\Debug\FileTransform.exe.config
+C:\UnzipCode\FileTransform\FileTransform\obj\Debug\FileTransform.csprojResolveAssemblyReference.cache
+C:\UnzipCode\FileTransform\FileTransform\bin\Debug\FileTransform.exe
+C:\UnzipCode\FileTransform\FileTransform\bin\Debug\FileTransform.pdb
+C:\UnzipCode\FileTransform\FileTransform\obj\Debug\FileTransform.exe
+C:\UnzipCode\FileTransform\FileTransform\obj\Debug\FileTransform.pdb
